@@ -1,0 +1,36 @@
+body {
+    width: 900px;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/teares.jpg");  
+    background-position: center;
+    background-size: cover;
+}
+
+.btn_group{
+    margin: 50px -60px 0px 150px;
+    padding: 0px;
+    width: 90px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+input{
+    width: 50px;
+}
+
+td{
+    overflow: hidden;
+}
+
+table{
+    background-color: #FFF; 
+    margin-left: 50px;
+}
+
+h4{
+    background-color: #FFF;
+    width: 300px;
+}
+
+
+

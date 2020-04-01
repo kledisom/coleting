@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;  
+  }
+  
+  .box {
+    float: left;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 50px; /* if you want space between the images */
+    background-color: greenyellow;
+    border: 2px solid red;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+   
+  }
+
+  #zero{
+      width: 100%;
+  }
+
+  #um{
+      width: 50%;
+  }
+
+  #dois{
+      width: 50%;
+  }
+
+  #tres{
+      width:50%;
+  }
+
+  #quatro{
+      width: 50%;
+  }
+
+  #cinco{
+    width: 50%;
+}
+
+#seis{
+    width: 50%;
+}
+
+#sete{
+    width: 100%;
+}
+ 
