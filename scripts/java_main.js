@@ -3,7 +3,7 @@ $(document).ready(function(){
     console.log("Ready!");
 
     $("#um").click( function(){
-        $(location).attr('href', '../main/groups/group_01.html');
+        $(location).attr('href', 'https://kledisom.github.io/coleting/main/groups/group_01.html');
     });
 
     $("#dois").click( function(){
