@@ -1,5 +1,6 @@
 body {
-    width: 900px;
+    //width: 900px;
+    min-width: 486px;
     font-family: 'Roboto', sans-serif;
     background-image: url("../img/teares.jpg");  
     background-position: center;
