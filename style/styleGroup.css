@@ -4,6 +4,7 @@ body {
     background-image: url("../img/teares.jpg");  
     background-position: center;
     background-size: cover;
+    border: 3px solid red;
 }
 
 .btn_group{
